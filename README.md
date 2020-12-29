@@ -1,0 +1,1 @@
+# uygulamali-c-egitimleri
