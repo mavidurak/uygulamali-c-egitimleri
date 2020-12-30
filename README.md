@@ -9,4 +9,4 @@ Sunucu yazılımı geliştirme sürecinde uygulama olarak geliştirilecek , sonu
 
 # Ders Kayıtları
 ### Hafta 1:
-[https://drive.google.com/file/d/13g3YL81kQtdcBsKZwrhAeWIpFO0uzInz/view?usp=sharing](https://drive.google.com/file/d/13g3YL81kQtdcBsKZwrhAeWIpFO0uzInz/view?usp=sharing)
+[https://drive.google.com/file/d/13g3YL81kQtdcBsKZwrhAeWIpFO0uzInz/view?usp=sharing](https://drive.google.com/file/d/13g3YL81kQtdcBsKZwrhAeWIpFO0uzInz/view?usp=sharing "Hafta 1")
