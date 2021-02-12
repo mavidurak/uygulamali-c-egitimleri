@@ -13,4 +13,8 @@ Sunucu yazılımı geliştirme sürecinde uygulama olarak geliştirilecek , sonu
 ### Hafta 2:
 [https://drive.google.com/file/d/1dlaZWjld1iZ9bRdWfNCUneRNQ-NIv54b/view?usp=sharing](https://drive.google.com/file/d/1dlaZWjld1iZ9bRdWfNCUneRNQ-NIv54b/view?usp=sharing "Hafta 2")
 ### Hafta 3:
-[https://drive.google.com/file/d/1qs0nZOqZ_Ey2AzDLKVz1rVYmpiDZF3tO/view](https://drive.google.com/file/d/1qs0nZOqZ_Ey2AzDLKVz1rVYmpiDZF3tO/view "Hafta 3")
+[https://drive.google.com/file/d/1qs0nZOqZ_Ey2AzDLKVz1rVYmpiDZF3tO/view?usp=sharing](https://drive.google.com/file/d/1qs0nZOqZ_Ey2AzDLKVz1rVYmpiDZF3tO/view "Hafta 3")
+### Hafta 4:
+[https://drive.google.com/file/d/1nrFND6dSf3dQf38qiPEgqk4xjryOQt_u/view?usp=sharing](https://drive.google.com/file/d/1nrFND6dSf3dQf38qiPEgqk4xjryOQt_u/view?usp=sharing "Hafta 4")
+### Hafta 5:
+[https://drive.google.com/file/d/106U_oeLmc9xZvoo06i6gs3gV1yBC42iS/view?usp=sharing](https://drive.google.com/file/d/106U_oeLmc9xZvoo06i6gs3gV1yBC42iS/view?usp=sharing "Hafta 8")
