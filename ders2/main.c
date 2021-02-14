@@ -1,3 +1,7 @@
+/*
+    05.01.2021
+    Bitsel islemler
+ */
 #include <stdio.h>
 #include <stdlib.h>
 

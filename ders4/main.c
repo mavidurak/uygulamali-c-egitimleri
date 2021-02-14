@@ -1,8 +1,8 @@
 /*
-   Özel Veri Yapýsý tanýmlama
-   Struct Union yapýlarýnýn ortak kullanýmý
+   02.02.2021
+   Ozel Veri Yapisi tanimlama
+   Struct Union yapilarinin ortak kullanimi
 */
-
 
 #include <stdio.h>
 #include <stdlib.h>
@@ -14,9 +14,7 @@
 #define VTTYPE_LONG  3
 #define VTTYPE_FLOAT 4
 
-
 typedef struct MYVAR{
-
    unsigned char type;
    union {
        char   chVal;
@@ -24,13 +22,10 @@ typedef struct MYVAR{
        int    iVal;
        double dfVal;
    };
-
 }MYVAR;
 
 int main()
 {
-
-
     MYVAR tm;
 
     tm.type = VTTYPE_FLOAT;
@@ -53,8 +48,6 @@ int main()
     else
     if( tm.type == VTTYPE_FLOAT )
        printf("Float = %lf\n" , tm.dfVal );
-
-
 
     return 0;
 }

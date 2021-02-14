@@ -1,4 +1,5 @@
 /*
+   12.02.2021
    C Pointers & Custom String Functions
 */
 #include <stdio.h>

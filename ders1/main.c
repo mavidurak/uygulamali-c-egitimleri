@@ -1,4 +1,7 @@
-// 29.12.2020
+/*
+    29.12.2020
+    Veri tipleri
+ */
 #include <stdio.h>
 #include <stdlib.h>
 #define PI_SAYISI 3.14

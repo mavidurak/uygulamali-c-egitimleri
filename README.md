@@ -7,16 +7,27 @@ olarak **CodeBlock** olarak süreci yürütmeyi hedeflemekteyiz.Masaüstü yazı
 Sunucu yazılımı geliştirme sürecinde uygulama olarak geliştirilecek , sonunda **Windows service** ve
 **Linux diamond** şekline çevrilerek gerçek bir sunucu yazılımı mimarisine dönüştürülecektir.
 
-# Ders Kayıtları
-### Hafta 1:
-[https://drive.google.com/file/d/13g3YL81kQtdcBsKZwrhAeWIpFO0uzInz/view?usp=sharing](https://drive.google.com/file/d/13g3YL81kQtdcBsKZwrhAeWIpFO0uzInz/view?usp=sharing "Hafta 1")
-### Hafta 2:
-[https://drive.google.com/file/d/1dlaZWjld1iZ9bRdWfNCUneRNQ-NIv54b/view?usp=sharing](https://drive.google.com/file/d/1dlaZWjld1iZ9bRdWfNCUneRNQ-NIv54b/view?usp=sharing "Hafta 2")
-### Hafta 3:
-[https://drive.google.com/file/d/1qs0nZOqZ_Ey2AzDLKVz1rVYmpiDZF3tO/view?usp=sharing](https://drive.google.com/file/d/1qs0nZOqZ_Ey2AzDLKVz1rVYmpiDZF3tO/view "Hafta 3")
-### Hafta 4:
-[https://drive.google.com/file/d/1nrFND6dSf3dQf38qiPEgqk4xjryOQt_u/view?usp=sharing](https://drive.google.com/file/d/1nrFND6dSf3dQf38qiPEgqk4xjryOQt_u/view?usp=sharing "Hafta 4")
-### Hafta 5:
-[https://drive.google.com/file/d/106U_oeLmc9xZvoo06i6gs3gV1yBC42iS/view?usp=sharing](https://drive.google.com/file/d/106U_oeLmc9xZvoo06i6gs3gV1yBC42iS/view?usp=sharing "Hafta 8")
-### Hafta 6
-[https://drive.google.com/file/d/1ZUmoS-uKwaHaKMhTVPkitODrkX6BHynl/view?usp=sharing](https://drive.google.com/file/d/1ZUmoS-uKwaHaKMhTVPkitODrkX6BHynl/view?usp=sharing "Hafta 6")
+# Dersler
+### Ders 1:
+- [Dersi izle](https://drive.google.com/file/d/13g3YL81kQtdcBsKZwrhAeWIpFO0uzInz/view?usp=sharing "Ders 1")
+- [Kodları görüntüle](./ders1/main.c)
+
+### Ders 2:
+- [Dersi izle](https://drive.google.com/file/d/1dlaZWjld1iZ9bRdWfNCUneRNQ-NIv54b/view?usp=sharing "Ders 2")
+- [Kodları görüntüle](./ders2/main.c)
+
+### Ders 3:
+- [Dersi izle](https://drive.google.com/file/d/1qs0nZOqZ_Ey2AzDLKVz1rVYmpiDZF3tO/view "Ders 3")
+- [Kodları görüntüle](./ders3/main.c)
+
+### Ders 4:
+- [Dersi izle](https://drive.google.com/file/d/1nrFND6dSf3dQf38qiPEgqk4xjryOQt_u/view?usp=sharing "Ders 4")
+- [Kodları görüntüle](./ders4/main.c)
+
+### Ders 5:
+- [Dersi izle](https://drive.google.com/file/d/106U_oeLmc9xZvoo06i6gs3gV1yBC42iS/view?usp=sharing "Ders 5")
+- [Kodları görüntüle](./ders5/main.c)
+
+### Ders 6
+- [Dersi izle](https://drive.google.com/file/d/1ZUmoS-uKwaHaKMhTVPkitODrkX6BHynl/view?usp=sharing "Ders 6")
+- [Kodları görüntüle](./ders6/main.c)

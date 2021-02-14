@@ -1,3 +1,7 @@
+/*
+    26.01.2021
+    Bitsel islemler ve maskeleme
+ */
 #include <stdio.h>
 #include <stdlib.h>
 

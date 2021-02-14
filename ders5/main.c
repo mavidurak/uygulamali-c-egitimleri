@@ -1,4 +1,5 @@
 /*
+  05.02.2021
   Fonksiyon Tanımlama & Pointers
 */
 #include <stdio.h>
