@@ -18,3 +18,5 @@ Sunucu yazılımı geliştirme sürecinde uygulama olarak geliştirilecek , sonu
 [https://drive.google.com/file/d/1nrFND6dSf3dQf38qiPEgqk4xjryOQt_u/view?usp=sharing](https://drive.google.com/file/d/1nrFND6dSf3dQf38qiPEgqk4xjryOQt_u/view?usp=sharing "Hafta 4")
 ### Hafta 5:
 [https://drive.google.com/file/d/106U_oeLmc9xZvoo06i6gs3gV1yBC42iS/view?usp=sharing](https://drive.google.com/file/d/106U_oeLmc9xZvoo06i6gs3gV1yBC42iS/view?usp=sharing "Hafta 8")
+### Hafta 6
+[https://drive.google.com/file/d/1ZUmoS-uKwaHaKMhTVPkitODrkX6BHynl/view?usp=sharing](https://drive.google.com/file/d/1ZUmoS-uKwaHaKMhTVPkitODrkX6BHynl/view?usp=sharing "Hafta 6")
