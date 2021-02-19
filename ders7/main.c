@@ -1,8 +1,8 @@
-/**********************************
-
+/*
+       19.02.2021
 Dinamik Memory Tahsisi
 
-**********************************/
+*/
 
 #include <stdio.h>
 #include <stdlib.h>
@@ -14,18 +14,13 @@ Dinamik Memory Tahsisi
   +
   dynamic memory
 
-
-
-
 //STACK
   Runtime variable allocation
   LIFO
 
-
 //SHARED MEMORY
   dynamic memory
 */
-
 
 
 //FULLTEXT SEARCH
@@ -33,9 +28,7 @@ Dinamik Memory Tahsisi
 //Ahmetxxxxxxxxxxx
 //Süleymanxxxxxxxx
 
-
 char szBuffer[100];
-
 
 int main()
 {
@@ -44,7 +37,7 @@ int main()
 
     if( p != NULL ) {
 
-       memset( p , 0 , 100 ); //ilgili pointerin gösterdiði yerden itibaren 100 bayt 0 karakteri ile doldur
+       memset( p , 0 , 100 ); //ilgili pointerin gösterdigi yerden itibaren 100 bayt 0 karakteri ile doldur
        memset( p , 'A' , 20 );
        char *t = malloc( 100 );
        if( t != NULL ) {
