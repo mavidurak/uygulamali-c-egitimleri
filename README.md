@@ -35,3 +35,7 @@ Sunucu yazılımı geliştirme sürecinde uygulama olarak geliştirilecek , sonu
 ### Ders 7
 - [Dersi izle](https://drive.google.com/file/d/1WQc4KPmAbQWhqIGkyXMemh7MpaJed-Cu/view?usp=sharing "Ders 7")
 - [Kodları görüntüle](./ders7/main.c)
+
+### Ders 8
+- [Dersi izle](https://drive.google.com/file/d/1CnphXb8dQsbHs8SR8xVgt0s8zEzZNgWL/view "Ders 8")
+- [Kodları görüntüle](./ders8/main.c)
