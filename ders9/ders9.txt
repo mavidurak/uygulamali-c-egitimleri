@@ -1,0 +1,1 @@
+ Önceki derslerin kısmen tekrarı ve işaretcilerin(pointers) hatalı kullanımlarının örneklenmesi yapılmıştır.
