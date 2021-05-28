@@ -53,11 +53,11 @@ Sunucu yazılımı geliştirme sürecinde uygulama olarak geliştirilecek , sonu
 - [Kodları görüntüle](./ders11/main.cpp)
 
 ### Ders 12
-- [Dersi izle](https://drive.google.com/file/d/1FGaU9lV0j8eGvFTypltdN439ZUBjUsxd/view?usp=sharing)("Ders 12")
+- [Dersi izle](https://drive.google.com/file/d/1FGaU9lV0j8eGvFTypltdN439ZUBjUsxd/view?usp=sharing "Ders 12")
 - [Kodları görüntüle](./ders12/main.cpp)
 
 ### Ders 13
-- [Dersi izle](https://drive.google.com/file/d/1Qm98WbRZN4ftCBVW5K3fuEaFfEhSVjGQ/view?usp=sharing )("Ders 13")
+- [Dersi izle](https://drive.google.com/file/d/1Qm98WbRZN4ftCBVW5K3fuEaFfEhSVjGQ/view?usp=sharing "Ders 13")
 - [Kodları görüntüle](./ders13/crypto.zip)
 
 ### Ders 14
