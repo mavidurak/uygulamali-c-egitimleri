@@ -1,0 +1,4 @@
+# depslib dependency file v1.0
+1617108206 source:c:\mavidurakio\gtkexample\main.cpp
+	<gtk/gtk.h>
+
